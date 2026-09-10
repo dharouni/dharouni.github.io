@@ -1,18 +1,22 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Academic website
+subtitle: PhD Student at the Technical University of Munich
 
-profile: false
+profile:
+  align: left
+  image: profile.jpg
+  image_circular: false
+  more_info:
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit:  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -20,4 +24,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome. This website presents my academic work and publications.
+<style>
+  @media (min-width: 576px) {
+    .profile {
+      width: 23%;
+    }
+  }
+</style>
+
+I am a PhD Student at the [Computer-Aided Medical Procedures (CAMP)](https://www.cs.cit.tum.de/camp/start/) group under the supervision of [Prof. Nassir Navab](https://www.cs.cit.tum.de/camp/members/cv-nassir-navab/nassir-navab/). My research focuses on enabling **calibrated confidence expressions** of **language and vision-language models** through **reinforcement learning**. I also investigate how agents can be trained for efficient **clinical decision-making**, by iteratively refining diagnostic hypotheses, selecting informative clinical tests, and optimizing the trade-off between diagnostic accuracy and resource use.
+
+Before my PhD, I completed my master's and bachelor's degrees in computer science at TUM with a semester abroad at the National University of Singapore. 

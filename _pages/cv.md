@@ -1,10 +1,7 @@
 ---
 layout: page
-permalink: /cv/
 title: CV
-nav: false
+permalink: https://davidbaniharouni.com/assets/pdf/cv.pdf
+nav: true
 nav_order: 3
-description: Curriculum vitae of David Bani-Harouni.
 ---
-
-The CV download will be enabled when the final PDF is added.
