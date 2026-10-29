@@ -32,6 +32,6 @@ latest_posts:
   }
 </style>
 
-I am a PhD Student at the [Computer-Aided Medical Procedures (CAMP)](https://www.cs.cit.tum.de/camp/start/) group under the supervision of [Prof. Nassir Navab](https://www.cs.cit.tum.de/camp/members/cv-nassir-navab/nassir-navab/). My research focuses on **reinforcement learning for LLMs**, e.g. for calibrated confidence expressions. I also investigate how agents can be trained for hypothesis-driven accurate and cost-effective **clinical decision-making**.
+I am a PhD Student at the [Computer-Aided Medical Procedures (CAMP)](https://www.cs.cit.tum.de/camp/start/) group under the supervision of [Prof. Nassir Navab](https://www.cs.cit.tum.de/camp/members/cv-nassir-navab/nassir-navab/). My research focuses on **reinforcement learning for LLMs**, e.g. for **calibrated confidence expressions**. I also investigate how agents can be trained for hypothesis-driven accurate and cost-effective **clinical decision-making**.
 
 Before my PhD, I completed my master's and bachelor's degrees in computer science at TUM with a semester abroad at the National University of Singapore. 
